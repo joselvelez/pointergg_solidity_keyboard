@@ -17,7 +17,7 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "./scripts", "./test", "./typechain", "components/tip-button.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "./scripts", "./test", "./typechain", "components/tip-button.js", "components/meta-mask-account-provider.js"],
   "exclude": ["node_modules"],
   "files": ["./hardhat.config.ts"]
 }
